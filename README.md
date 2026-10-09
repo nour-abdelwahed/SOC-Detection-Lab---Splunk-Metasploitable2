@@ -38,7 +38,7 @@ This project demonstrates the workflow of a security operations environment from
               │    Metasploitable2     │
               │     192.168.92.144     │
               │                        │
-              │     vsftpd 2.3.4      │
+              │     vsftpd 2.3.4       │
               │     Vulnerable FTP     │
               └───────────┬────────────┘
                           │
